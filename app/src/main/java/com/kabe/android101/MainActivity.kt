@@ -22,6 +22,5 @@ class MainActivity : AppCompatActivity() {
             val superHero = SuperHero(name,age,job)
             resultText.text = "İsim: ${name} \nYaş: ${age} \nMeslek: ${job} "
         }
-
     }
 }
